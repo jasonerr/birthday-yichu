@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 80px;
   top: 500px;
-  left: 50%;
+  left: 58%;
   /* transform: scale(0.1); */
 }
 
@@ -281,7 +281,7 @@ body {
 
   .six .hat {
     width: 50px;
-    top: 30%;
+    top: 25%;
   }
 
   .wish-hbd {
